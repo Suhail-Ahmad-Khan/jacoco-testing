@@ -1,4 +1,4 @@
-package math.operation;
+/*package math.operation;
 
 import org.junit.Test;
 
@@ -19,3 +19,4 @@ public class ArithmeticOperationsTest {
 	}
 
 }
+*/
